@@ -18,11 +18,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DTOs\CustomerDTOs\" />
     <Folder Include="DTOs\CategoryDTOs\" />
-    <Folder Include="DTOs\LoyalityCardDTOs\" />
     <Folder Include="DTOs\PieceOfArtDTOs\" />
-    <Folder Include="Resposes\" />
   </ItemGroup>
 
 </Project>

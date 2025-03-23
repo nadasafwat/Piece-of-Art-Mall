@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Piece_of_Art_Mall.DTOs.CustomerDTOs;
+using System.ComponentModel.DataAnnotations;
 
 namespace Piece_of_Art_Mall.Models
 {
