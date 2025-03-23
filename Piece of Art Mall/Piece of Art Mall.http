@@ -1,0 +1,6 @@
+@Piece_of_Art_Mall_HostAddress = http://localhost:5222
+
+GET {{Piece_of_Art_Mall_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
